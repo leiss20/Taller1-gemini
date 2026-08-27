@@ -70,7 +70,7 @@ def procesar_articulo(texto, tarea):
 
     # Enviar la solicitud a Gemini
     response = client.models.generate_content(
-        model="gemini-3.5-flash",
+        model="gemini-3.6-flash",
         config=configuration,
         contents=instruccion
     )
