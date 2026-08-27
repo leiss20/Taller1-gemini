@@ -126,7 +126,8 @@ para analizar nuevos datos y generar una predicción, clasificación
 o respuesta.
 
 📸 Evidencia - Ejercicio 1
-<img width="1253" height="153" alt="image" src="https://github.com/user-attachments/assets/d6d6283a-0571-4915-b87f-549512ecf853" />
+<img width="1252" height="407" alt="Captura de pantalla 2026-08-26 203922" src="https://github.com/user-attachments/assets/0aff80ee-678e-44a2-9f07-8d2add788c52" />
+
 
 ▶️ Ejercicio 2 - Procesador de textos inteligente
 Descripción
